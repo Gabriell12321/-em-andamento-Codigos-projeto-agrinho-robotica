@@ -1,2 +1,2 @@
 # Codigos-projeto-agrinho-robotica
-Codigo pro meu projeto do agrinho de robotica, usando o arduino 
+Projeto Arduino de Irrigação Automática: codigos usando o arduino 
